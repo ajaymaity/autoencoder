@@ -3,3 +3,6 @@ matplotlib
 keras
 tensorflow
 image
+pandas
+seaborn
+sklearn
